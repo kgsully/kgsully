@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ken Sully
 
-I am an aspiring So ware Engineer with over 16 years of multi-discipline engineering and technical experience.
+I am an aspiring Software Engineer with over 16 years of multi-discipline engineering and technical experience.
 <!--
 **kgsully/kgsully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
