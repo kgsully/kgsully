@@ -4,11 +4,11 @@ I am an aspiring Software Engineer with over 16 years of multi-discipline engine
 
 - 🌱 I’m currently learning **Java, JavaScript, TypeScript, Rest API, Express, Python, Flask, Jinja.....**
 
-### Connect with me:
+#### Connect with me:
 
 <a href="https://www.linkedin.com/in/kgsully/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ken Sully" height="30" width="40" /></a>
 
-### Languages and tools:
+#### Languages and tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="python" width="40" height="40"/>
