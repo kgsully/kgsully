@@ -12,6 +12,7 @@ I am a Software Engineer with over 16 years of multi-discipline engineering and 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="python" width="40" height="40"/>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="react" width="40" height="40"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="express js" width="40" height="40"/>
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="flask" width="40" height="40"/>
