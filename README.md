@@ -1,8 +1,6 @@
 ## Hi there 👋, I'm Ken Sully
 
-I am an aspiring Software Engineer with over 16 years of multi-discipline engineering and technical experience.
-
-- 🌱 I’m currently learning **Java, JavaScript, TypeScript, Rest API, Express, Python, Flask, Jinja.....**
+I am a Software Engineer with over 16 years of multi-discipline engineering and technical experience.
 
 #### Connect with me:
 
